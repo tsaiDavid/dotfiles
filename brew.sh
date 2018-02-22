@@ -37,11 +37,12 @@ brew install hub
 brew install wget
 
 # Install Applications via Cask
-brew cask install google-chrome
-brew cask install spotify
-brew cask install slack
 brew cask install alfred
+brew cask install google-chrome
 brew cask install sizeup
+brew cask install slack
+brew cask install spotify
+brew cask install visual-studio-code
 
 # Remove outdated versions from the cellar.
 brew cleanup
